@@ -7,3 +7,5 @@ Contains:
 - 2 temperature sensors
 - arduino
 - 220 AC-DC converter
+
+![Visual components schema](schema.png)
